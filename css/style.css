@@ -1,0 +1,11 @@
+body {
+    background-image: url(../img/aaa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+a{
+    font-size: 23px;
+}
+
